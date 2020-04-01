@@ -1,6 +1,4 @@
-# Estratificação de dados *multi-label* 
-
-Com a biblioteca Scikit-multilearn. 
+# Estratificação de dados *multi-label* com o Scikit-multilearn
 
 A capacidade de classificar e reconhecer certos tipos de dados vem sendo exigida em diversas aplicações modernas e, principalmente, onde o Big Data é usado para tomar todos os tipos de decisões, como no governo, na economia e na medicina. As tarefas de classificação também permitem que pesquisadores consigam lidar com a grande quantidade de dados as quais têm acesso.
 
