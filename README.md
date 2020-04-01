@@ -15,5 +15,5 @@ Os dados possuem um grande número de comentários do Wikipédia, classificados 
 - insult
 - identity_hate
 
-Para mais informações sobre esse projeto, clique [aqui](https://insightlab.ufc.br/blog/). 
+**Para mais informações sobre esse projeto, clique [aqui](https://insightlab.ufc.br/blog/).**
 
