@@ -19,5 +19,5 @@ Os dados possuem um grande número de comentários do Wikipédia, classificados 
 - insult
 - identity_hate
 
-**Para mais informações sobre esse projeto, clique [aqui](https://insightlab.ufc.br/aprenda-a-estratificar-dados-multi-label-com-scikit-multilearn/).**
+**Para mais informações sobre esse projeto, acesse o artigo disponível no *blog* do [Insight Data Science Lab](https://insightlab.ufc.br/aprenda-a-estratificar-dados-multi-label-com-scikit-multilearn/) ou no [Medium](https://medium.com/@insightlab/aprenda-a-estratificar-dados-multi-label-com-scikit-multilearn-7ceda88d7661).**
 
